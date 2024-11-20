@@ -1,4 +1,4 @@
-README: Ian's Resume Capstone Project 📄✨
+Ian's Resume Capstone Project 📄✨
 
 Welcome to Ian's Resume Capstone Project, a dynamic, self-contained web page that serves as a showcase of my professional journey, educational accomplishments, and ongoing projects! This resume goes beyond the conventional, offering a responsive, visually engaging, and interactive experience. 🚀
 
